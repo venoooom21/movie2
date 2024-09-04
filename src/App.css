@@ -1,0 +1,35 @@
+
+.movie-list {
+  padding: 20px;
+}
+
+.movie-card {
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.movie-card h2 {
+  margin: 0;
+}
+
+.movie-detail {
+  padding: 20px;
+}
+
+.movie-detail iframe {
+  margin-top: 15px;
+  width: 100%;
+  max-width: 560px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
